@@ -38,6 +38,15 @@ Motivated Master's student in Software Engineering Systems at Northeastern Unive
 
 ### 🏗️ Featured Projects
 
+#### ☁️ Cloud-Native Application Deployment
+A testament to modern cloud architecture using Node.js, Terraform, AWS, CI/CD and PostgreSQL.
+- 🔹 Designed & deployed a microservices-based architecture using Node.js & Express.js.
+- 🛠️ Provisioned & managed cloud infrastructure using Terraform for Infrastructure as Code (IaC).
+- 🌩️ Optimized cloud efficiency with AWS Lambda, EC2, RDS, and S3 for dynamic scaling.
+- 🔒 Implemented secure authentication with encrypted credentials & user access control.
+- 🔄 Built a robust CI/CD pipeline using GitHub Actions, automating testing & deployments.
+- ⚡ Achieved high availability & fault tolerance through multi-AZ deployment on AWS.
+
 #### 🏠 HostedHomes - Online Vacation Rental Platform
 A full-stack web application built with Java, Spring Boot, Hibernate ORM.
 - 🔐 Implemented secure user authentication with Spring Security.
@@ -48,11 +57,6 @@ A full-stack web application built with Java, Spring Boot, Hibernate ORM.
 Empowering creativity with a drag-and-drop interface using React DND.
 - 🧩 Developed scalable REST APIs for CRUD operations.
 - 🌟 Increased adoption by 60% with an intuitive UI.
-
-#### ☁️ Cloud-Native Application Deployment
-A testament to modern cloud architecture using Node.js, Terraform, and AWS.
-- 🌩️ Leveraged serverless architecture with AWS Lambda.
-- 🔄 Implemented robust CI/CD pipeline using GitHub Actions.
 
 ### 🌱 Currently Growing
 
